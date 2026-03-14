@@ -33,9 +33,14 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 
-Developed by: RegisterNumber:*/
+module boolean_function ( input A, B, C, D, output F );
+
+assign F = (~A & ~B & ~C & ~D) | ( A & ~C & ~D ) | (~B & C & ~D ) | (~A & B & C & D) | ( B & ~C & D );
+
+endmodule
+Developed by: RegisterNumber:*/212225040141
 
 
 **RTL realization**
