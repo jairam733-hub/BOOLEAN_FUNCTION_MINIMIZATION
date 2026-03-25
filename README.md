@@ -60,13 +60,15 @@ Name : JAIRAM J
 
 
 **RTL**
-![alt text](exp2.png)
+<img width="1901" height="762" alt="1" src="https://github.com/user-attachments/assets/79cf813e-550c-4a0b-8c67-db55686cba57" />
+
 
 
 
 
 **Timing Diagram**
-![alt text](exp2_waveform.png)
+<img width="662" height="622" alt="exp2_waveform" src="https://github.com/user-attachments/assets/ed43e56e-c88c-4fba-8d3f-971e38cd8f3a" />
+
 
 
 **Result:**
